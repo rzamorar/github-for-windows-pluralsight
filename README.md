@@ -1,4 +1,12 @@
 # github-for-windows-pluralsight
 Pluralsight Course GitHub for windows developers
 
-# Edition 1
+# This is a prohect about nothing but GitHub TEAMWORK learning
+
+## Introduction
+
+## Something important
+
+## Conclusion
+
+## How you can contribute
